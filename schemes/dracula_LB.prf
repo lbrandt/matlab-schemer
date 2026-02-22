@@ -1,6 +1,7 @@
 # dracula_LB - MATLAB color scheme
 # Generated with schemer_export v1.4.0, on MATLAB 9.5.0.944444 (R2018b)
 # Tue Jan 14 18:34:46 GMT 2020
+# Update 2026: need to manually set ValidationSection to purple BD93F9
 # To enable this color scheme in MATLAB use schemer_import, available at:
 #     https://github.com/scottclowe/matlab-schemer
 #     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
